@@ -1,0 +1,33 @@
+"main.search.placeholder" = "Search";
+"main.search.empty" = "No results found";
+
+"statistics.title" = "Statistics";
+"statistics.subtitle" = "Items count and top 3 characters";
+"statistics.empty" = "No statistics available yet.";
+"statistics.items_count" = "%d items";
+"statistics.no_characters" = "No characters available.";
+
+"page.nature.title" = "Nature";
+"page.waterfall.title" = "Waterfall";
+"page.forest.title" = "Forest";
+
+"item.nature.waterfall.title" = "Waterfall";
+"item.nature.waterfall.description" = "A calm waterfall hidden deep in nature.";
+"item.nature.trees.title" = "Trees";
+"item.nature.trees.description" = "Tall green trees swaying in the fresh air.";
+"item.nature.forest.title" = "Forest";
+"item.nature.forest.description" = "A peaceful forest path surrounded by greenery.";
+
+"item.waterfall.water.title" = "Water";
+"item.waterfall.water.description" = "Crystal clear water flowing over the rocks.";
+"item.waterfall.air.title" = "Air";
+"item.waterfall.air.description" = "Cool mountain air fills the surrounding space.";
+"item.waterfall.fresh.title" = "Fresh";
+"item.waterfall.fresh.description" = "A fresh and relaxing atmosphere near the falls.";
+
+"item.forest.wind.title" = "Wind";
+"item.forest.wind.description" = "Soft wind moves gently through the trees.";
+"item.forest.valley.title" = "Valley";
+"item.forest.valley.description" = "A wide valley opens beyond the forest line.";
+"item.forest.horse.title" = "Horse";
+"item.forest.horse.description" = "A horse standing quietly in the open landscape.";
